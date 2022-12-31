@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+    padding-top: 20px;
+    font-size: 20px;
+}
+ul{
+    padding: 5px;
+}
+.headdd{
+    font-size: 20px;
+
+}
+
+.list_of_footer{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-around;
+    /* border: 5px solid red;
+} */
+}
+.app_store{
+    padding-top: 20px;
+}
+.app{
+    padding:10px;
+}
+.original{
+    display:flex;
+}
+.return_policy{
+    display: flex;
+}
+p{
+    padding: 10px;
+    font-size: 20px;
+}
+.foot_box{
+    max-width:1200px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: rgb(39, 38, 38);
+    
+}
+.popular_searches{
+    padding: 40px;
+}
+footer{
+    font-size: 20px;
+}
